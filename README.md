@@ -1,4 +1,4 @@
-## -Almost-ready-to-run-GoodLuckOS
+## -GoodLuckOS-with-more-consoles
 A GoodLuckOS backup/system file featuring more playable systems like N64, GG, SMS and much more (Not so stable but indeed possible to configure it).
 
 ## CONTEXT
