@@ -56,6 +56,8 @@ I will also provide a separate ZIP file for the cores and another one for the st
 
 ## DOWNLOADS
 
-[GLOSSTOCKIMG)(https://www.mediafire.com/file/l1nnu87ls2lcj6d/goodluckOS-GA36-MB-A33-Gecko.img/file)
+[GLOSSTOCKIMG](https://www.mediafire.com/file/l1nnu87ls2lcj6d/goodluckOS-GA36-MB-A33-Gecko.img/file)
+
 [HOME.ZIP](https://www.mediafire.com/file/kzwi6iafwuh30ep/HOME.zip/file)
+
 [CORES](https://www.mediafire.com/file/sltql1jk3y1g1xb/CORES.zip/file)
