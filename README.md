@@ -50,6 +50,12 @@ Due to the lack of processing and power of Allwinner A33 many consoles may be un
 It may automatically boot with Kennel launcher, if not just run Kennel app on Puppy
 I will also provide a separate ZIP file for the cores and another one for the stock OS image I used.
 
-## Credits :
-**CodeZombie (for developing and maintaining the goodluckOS core system and the Puppy frontend)**
+## Credits:
+**CodeZombie (for developing and maintaining the goodluckOS core system and the Puppy frontend)**,
 **The Libretro & Lakka Teams (for providing the stable ARMv7/armhf RetroArch cores and core-info database)**
+
+## DOWNLOADS
+
+[GLOSSTOCKIMG)(https://www.mediafire.com/file/l1nnu87ls2lcj6d/goodluckOS-GA36-MB-A33-Gecko.img/file)
+[HOME.ZIP](https://www.mediafire.com/file/kzwi6iafwuh30ep/HOME.zip/file)
+[CORES](https://www.mediafire.com/file/sltql1jk3y1g1xb/CORES.zip/file)
